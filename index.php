@@ -254,16 +254,16 @@
       <nav class="col-12" id="footer">
         <ul class="list-inline text-lg-right text-center social-icon">
           <li class="list-inline-item">
-            <a class="facebook" href="#"><i class="bi bi-facebook"></i></a>
+            <a class="text-dark" href="https://www.instagram.com/velofish_play"><i class="bi bi-instagram"></i></a>
           </li>
           <li class="list-inline-item">
-            <a class="twitter" href="#"><i class="bi bi-twitter"></i></a>
+            <a class="text-dark" href="https://velofish.herokuapp.com/"><i class="bi bi-globe"></i></a>
           </li>
           <li class="list-inline-item">
-            <a class="linkedin" href="#"><i class="bi bi-linkedin"></i></a>
+            <a class="text-dark" href="#"><i class="bi bi-envelope"></i></a>
           </li>
           <li class="list-inline-item">
-            <a class="black" href="#"><i class="bi bi-github"></i></a>
+            <a class="text-dark" href="#"><i class="bi bi-telephone"></i></a>
           </li>
         </ul>
       </nav>
