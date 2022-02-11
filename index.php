@@ -217,7 +217,7 @@
             <div class="rounded text-center pricing-table table-2">
               <h3>VELOFISH</h3>
               <p class="text-dark">Come play and feel the thrill of a survival-racing-MMO game with Velofish right here, now!</p>
-              <a href="https://google.com" class="btn btn-primary ml-lg-3 primary-shadow font-weight-bold">Download</a>
+              <a href="https://drive.google.com/drive/folders/1Wr3DsQIgEFaNNk37lN_cJK4pf80D2YFV?usp=sharing" class="btn btn-primary ml-lg-3 primary-shadow font-weight-bold">Download</a>
             </div>
           </div>
         </div>
