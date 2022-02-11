@@ -72,8 +72,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center zindex-1">
-        <h1 class="mb-3">VeloFish<br>
-          by Fisheries Cyber Play</h1>
+        <h1>VeloFish</h1>
+        <h3 class="mb-3">by Fisheries Cyber Play</h3>
         <p class="mb-4">Velofish is a survival-racing-MMO video game that will take us to be a fish in saving ourselves from the destruction of its habitat by the unscrupulous fishers.</p>
         <a href="#" class="btn btn-secondary btn-lg">explore us</a>
         <!-- banner image -->
